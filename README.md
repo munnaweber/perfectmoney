@@ -31,7 +31,7 @@ Or add the following line to the require block of your `composer.json` file.
 Current Version
 
 ```bash
-"1.0.2"
+"1.0.3"
 ```
 
 You'll then need to run `composer install` or `composer update` to download it and have the autoloader updated.
