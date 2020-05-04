@@ -1,0 +1,13 @@
+{
+    "name": "munna/pm",
+    "description": "Perfect Money API",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Munna\\Pm\\": "src/"
+        }
+    }
+}
