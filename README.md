@@ -79,7 +79,7 @@ return [
 ];
 ```
 
-After Setting your account information You Should Call This Artisan Command
+After Setting your account information You Should Call This Artisan Command.
 
 ```bash
 php artisan config:clear
