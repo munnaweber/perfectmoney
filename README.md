@@ -1,8 +1,8 @@
 # Perfect Money Payment API Integration
 
-[![Total Issues](https://img.shields.io/github/issues/MunnaAhmed/perfectmoney)]
-[![Total Fork](https://img.shields.io/github/forks/MunnaAhmed/perfectmoney)]
-[![Total Stars](https://img.shields.io/github/stars/MunnaAhmed/perfectmoney)]
+![Total Issues](https://img.shields.io/github/issues/MunnaAhmed/perfectmoney)
+![Total Fork](https://img.shields.io/github/forks/MunnaAhmed/perfectmoney)
+![Total Stars](https://img.shields.io/github/stars/MunnaAhmed/perfectmoney)
 
 > A Laravel Package for Perfect Money Payment API Integration
 
@@ -28,7 +28,7 @@ Or add the following line to the require block of your `composer.json` file.
 Current Version
 
 ```bash
-    "1.0.1"
+"1.0.2"
 ```
 
 You'll then need to run `composer install` or `composer update` to download it and have the autoloader updated.
