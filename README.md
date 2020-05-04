@@ -49,6 +49,14 @@ You can publish the configuration file using this command:
 php artisan vendor:publish --provider="Munna\Pm\PerfectMoneyServiceProvider"
 ```
 
+
+After Publishing Vendor You Should Call This Artisan Command
+
+```bash
+php artisan config:clear
+```
+
+
 A configuration-file named `perfectmoney.php` with some sensible defaults will be placed in your `config` directory:
 
 ```php
