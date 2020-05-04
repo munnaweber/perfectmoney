@@ -1,10 +1,8 @@
 # Perfect Money Payment API Integration
 
-[![Latest Stable Version](https://poser.pugx.org/unicodeveloper/laravel-paystack/v/stable.svg)](https://packagist.org/packages/unicodeveloper/laravel-paystack)
-[![License](https://poser.pugx.org/unicodeveloper/laravel-paystack/license.svg)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/unicodeveloper/laravel-paystack.svg)](https://travis-ci.org/unicodeveloper/laravel-paystack)
-[![Quality Score](https://img.shields.io/scrutinizer/g/unicodeveloper/laravel-paystack.svg?style=flat-square)](https://scrutinizer-ci.com/g/unicodeveloper/laravel-paystack)
-[![Total Downloads](https://img.shields.io/packagist/dt/unicodeveloper/laravel-paystack.svg?style=flat-square)](https://packagist.org/packages/unicodeveloper/laravel-paystack)
+[![Total Issues](https://img.shields.io/github/issues/MunnaAhmed/perfectmoney)]
+[![Total Fork](https://img.shields.io/github/forks/MunnaAhmed/perfectmoney)]
+[![Total Stars](https://img.shields.io/github/stars/MunnaAhmed/perfectmoney)]
 
 > A Laravel Package for Perfect Money Payment API Integration
 
@@ -24,6 +22,13 @@ Or add the following line to the require block of your `composer.json` file.
 
 ```
 "munna/pm": "1.0.*"
+```
+
+
+Current Version
+
+```bash
+    "1.0.1"
 ```
 
 You'll then need to run `composer install` or `composer update` to download it and have the autoloader updated.
@@ -112,5 +117,4 @@ $pm->send($receiver, $amount, $payment_id, $memo);
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-#paystak
+The MIT License (MIT).
