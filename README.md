@@ -1,8 +1,11 @@
 # Perfect Money Payment API Integration
 
+[![Total Downloads](https://poser.pugx.org/munna/pm/downloads)](https://packagist.org/packages/munna/pm)
 ![Total Issues](https://img.shields.io/github/issues/MunnaAhmed/perfectmoney)
 ![Total Fork](https://img.shields.io/github/forks/MunnaAhmed/perfectmoney)
 ![Total Stars](https://img.shields.io/github/stars/MunnaAhmed/perfectmoney)
+[![Latest Unstable Version](https://poser.pugx.org/munna/pm/v/unstable)](https://packagist.org/packages/munna/pm)
+[![License](https://poser.pugx.org/munna/pm/license)](https://packagist.org/packages/munna/pm)
 
 > A Laravel Package for Perfect Money Payment API Integration
 
