@@ -9,5 +9,12 @@
         "psr-4": {
             "Munna\\Pm\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Munna\\Pm\\PerfectMoneyServiceProvider"
+            ]
+        }
     }
 }
