@@ -50,12 +50,6 @@ php artisan vendor:publish --provider="Munna\Pm\PerfectMoneyServiceProvider"
 ```
 
 
-After Publishing Vendor You Should Call This Artisan Command
-
-```bash
-php artisan config:clear
-```
-
 
 A configuration-file named `perfectmoney.php` with some sensible defaults will be placed in your `config` directory:
 
@@ -83,6 +77,12 @@ return [
     'perfect_money_payeraccount' => 'Your_Account_id',
 
 ];
+```
+
+After Setting your account information You Should Call This Artisan Command
+
+```bash
+php artisan config:clear
 ```
 
 Let me explain the fluent methods this package provides a bit here.
